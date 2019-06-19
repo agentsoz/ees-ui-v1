@@ -1,4 +1,9 @@
 
+**NOTE**: *This is the code for the EES UI hosted at https://tiny.cc/bushfire-sim. It was moved out of [EES repository's ./ui subdirectory](https://github.com/agentsoz/ees/tree/a27a1f1b614ab22fd1a286bc58ead09256bd9ef3/ui). This code base is largely unmaintained  and is superseded by work in the [EES UI](https://github.com/agentsoz/ees-ui) and [EES Server](https://github.com/agentsoz/ees-server) repositories. What follows is the original `README.md`.*
+
+*-- Dhi, 19 June 2019*
+
+# Emergency Evacuation Simulator Web UI Version 1
 
 ## An installation on Mac
 
